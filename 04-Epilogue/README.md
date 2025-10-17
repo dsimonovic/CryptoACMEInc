@@ -98,7 +98,7 @@ The auditors found one "medium priority" issue during their review: our system w
 
 So we did. During the audit presentation. 
 
-Alice asked me to implement it live while they watched. The session was hectic, but hey were very impressed. We got upgraded to "Premium Secure4Ever Certified Elite™" for our "proactive security posture."
+Alice asked me to implement it live while they watched. The session was hectic, but they were nevertheless very impressed. We got upgraded to "Premium Secure4Ever Certified Elite™" for our "proactive security posture."
 
 The system now outputs nothing. No signatures. No verification results. Just redaction messages.
 

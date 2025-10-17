@@ -36,7 +36,7 @@ All connections timeout after **1 second**. This is a feature, not a bug (accord
 ## 🏆 Victory Condition
 
 Extract the forbidden signature from each increasingly "secure" implementation.
-If you enjoy the process, pause and remember: if you learn something, it was purely accidental! 😄
+If you enjoy the process, pause and remember: if you learned something, it was purely accidental! 😄
 
 ---
 
